@@ -1,0 +1,10 @@
+C:\Users\Phi Hung\source\repos\AtHome\MessageBoxGUI\Bai5\bin\Debug\Bai5.exe.config
+C:\Users\Phi Hung\source\repos\AtHome\MessageBoxGUI\Bai5\bin\Debug\Bai5.exe
+C:\Users\Phi Hung\source\repos\AtHome\MessageBoxGUI\Bai5\bin\Debug\Bai5.pdb
+C:\Users\Phi Hung\source\repos\AtHome\MessageBoxGUI\Bai5\obj\Debug\Bai5.csproj.AssemblyReference.cache
+C:\Users\Phi Hung\source\repos\AtHome\MessageBoxGUI\Bai5\obj\Debug\Bai5.Form1.resources
+C:\Users\Phi Hung\source\repos\AtHome\MessageBoxGUI\Bai5\obj\Debug\Bai5.Properties.Resources.resources
+C:\Users\Phi Hung\source\repos\AtHome\MessageBoxGUI\Bai5\obj\Debug\Bai5.csproj.GenerateResource.cache
+C:\Users\Phi Hung\source\repos\AtHome\MessageBoxGUI\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\Phi Hung\source\repos\AtHome\MessageBoxGUI\Bai5\obj\Debug\Bai5.exe
+C:\Users\Phi Hung\source\repos\AtHome\MessageBoxGUI\Bai5\obj\Debug\Bai5.pdb
